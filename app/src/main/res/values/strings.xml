@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinancasApp</string>
+    <string name="adicionar_despesa">Adicionar Despesa</string>
+    <string name="controle_financeiro">Controle Financeiro</string>
+    <string name="sal_rio">Salário</string>
+    <string name="r_0_00">R$ 0,00</string>
+    <string name="gastos">Gastos</string>
+    <string name="digite_a_despesa">Digite a despesa</string>
+    <string name="currency_format">R$ %.2f</string>
+</resources>

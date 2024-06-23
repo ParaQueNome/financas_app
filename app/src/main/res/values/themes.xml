@@ -1,0 +1,16 @@
+<!-- res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema principal da aplicação -->
+    <style name="Theme.FinancasApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Cor principal da marca -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <!-- Cor secundária da marca -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <!-- Cor de fundo -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+    </style>
+</resources>
